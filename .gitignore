@@ -1,0 +1,6 @@
+vulkan/x64
+vulkan/.vs/
+vulkan/*.sln
+vulkan/*.vcxproj*
+CMakeLists.txt
+build/
